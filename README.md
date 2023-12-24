@@ -1,16 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Safiullah Khan</h1>
+<h3 align="center">A passionate and enthusiast Cyber Security Student at UET Peshawar.</h3>
 
+- 🔭 I’m currently working on **NCCS-UETP**
 
-**Safiullahgithub/Safiullahgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👯 I’m looking to collaborate on **Cyber Security Projects**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on cyber Security
-- 🌱 I’m currently learning cyber crime
-- 👯 I’m looking to collaborate on projects
-- 🤔 I’m looking for help with in pornhub
-- 💬 Ask me about sex
-- 📫 How to reach me: wia xnxx
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
