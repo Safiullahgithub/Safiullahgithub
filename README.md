@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Cyber Security Projects**
 
-- 💬 Ask me about **Burp suite, Nessus , Owasp Zap , Kali Linux , Cryptography, Ethical Hacking**
+- 💬 Ask me about **Burp suite, Nessus , Owasp Zap , Kali Linux , Cryptography, Ethical Hacking , Python Scripting, Penetration Testing , Red Team**
 
 - 📫 How to reach me **safimohmand34@gmail.com**
 
