@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safiullahgithub" alt="safiullahgithub" /></a> </p>
 
-- 🔭 I’m currently working on **NCCS-UETP**
+- 🔭 I’m currently working on **NCCS-UET Peshawar**
 
-- 🌱 I’m currently learning **Owasp Top 10 Vulnerabilities**
+- 🌱 I’m currently Starting my Research On Data Breaches **Why a Web Applications is Vulnerable to Attack**
 
 - 👯 I’m looking to collaborate on **Cyber Security Projects**
 
-- 💬 Ask me about **Burp suite, Nessus , Owasp Zap , Kali Linux , Cryptography**
+- 💬 Ask me about **Burp suite, Nessus , Owasp Zap , Kali Linux , Cryptography, Ethical Hacking**
 
 - 📫 How to reach me **safimohmand34@gmail.com**
 
