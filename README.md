@@ -1,18 +1,19 @@
 
   <h1 style="font-size: 36px;">Hi 👋, I'm Safi Ullah Khan</h1>
   <h3 style="font-size: 24px;">A Passionate and Enthusiast Cyber Security Student at UET Peshawar.</h3>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=safiullahgithub&label=Profile%20views&color=0e75b6&style=flat" alt="safiullahgithub">
-  <br><br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safiullahgithub" alt="safiullahgithub"></a>
-  <br><br>
-  <ul style="list-style-type: none; padding: 0;">
+    <ul style="list-style-type: none; padding: 0;">
     <li>🔭 I’m currently working on <strong>NCCS-UET Peshawar</strong></li>
     <li>🌱 I’m currently starting my research on Data Breaches: <strong>Why Web Applications are Vulnerable to Attacks</strong></li>
     <li>👯 I’m looking to collaborate on <strong>Cyber Security Projects</strong></li>
     <li>💬 Ask me about <strong>Burp suite, Nessus, Owasp Zap, Kali Linux, Cryptography, Ethical Hacking, Python Scripting, Penetration Testing, Red Team</strong></li>
     <li>📫 How to reach me: <a href="mailto:safimohmand34@gmail.com" style="color: #007bff; text-decoration: none;"><strong>safimohmand34@gmail.com</strong></a></li>
   </ul>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=safiullahgithub&label=Profile%20views&color=0e75b6&style=flat" alt="safiullahgithub">
+  <br><br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safiullahgithub" alt="safiullahgithub"></a>
+  <br><br>
+
 </body>
 </html>
 
