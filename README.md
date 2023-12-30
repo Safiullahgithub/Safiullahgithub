@@ -1,4 +1,3 @@
-
 <p align="center">
   <span style="font-size: 36px; color: #007bff;">Hi 👋, I'm Safi Ullah Khan</span><br>
   <span style="font-size: 24px; color: #333;">A Passionate and Enthusiast Cyber Security Student at UET Peshawar.</span><br><br>
@@ -9,12 +8,13 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safiullahgithub" alt="safiullahgithub" /></a>
 </p>
 
-- 🔭 I’m currently working on **NCCS-UET Peshawar**
-- 🌱 I’m currently starting my research on Data Breaches: **Why Web Applications are Vulnerable to Attacks**
-- 👯 I’m looking to collaborate on **Cyber Security Projects**
-- 💬 Ask me about **Burp suite, Nessus, Owasp Zap, Kali Linux, Cryptography, Ethical Hacking, Python Scripting, Penetration Testing, Red Team**
-- 📫 How to reach me: [safimohmand34@gmail.com](mailto:safimohmand34@gmail.com)
-
+<ul style="list-style-type: none; padding: 0; text-align: center;">
+  <li style="font-size: 18px; color: #007bff;">🔭 I’m currently working on <strong>NCCS-UET Peshawar</strong></li>
+  <li style="font-size: 18px; color: #007bff;">🌱 I’m currently starting my research on Data Breaches: <strong>Why Web Applications are Vulnerable to Attacks</strong></li>
+  <li style="font-size: 18px; color: #007bff;">👯 I’m looking to collaborate on <strong>Cyber Security Projects</strong></li>
+  <li style="font-size: 18px; color: #007bff;">💬 Ask me about <strong>Burp suite, Nessus, Owasp Zap, Kali Linux, Cryptography, Ethical Hacking, Python Scripting, Penetration Testing, Red Team</strong></li>
+  <li style="font-size: 18px; color: #007bff;">📫 How to reach me: <a href="mailto:safimohmand34@gmail.com" style="color: #007bff; text-decoration: none;"><strong>safimohmand34@gmail.com</strong></a></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
