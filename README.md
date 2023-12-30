@@ -1,20 +1,20 @@
 
-<h1 align="center">Hi 👋, I'm Safi Ullah Khan</h1>
-<h3 align="center">A Passionate and Enthusiast Cyber Security Student at UET Peshawar.</h3>
+<p align="center">
+  <span style="font-size: 36px; color: #007bff;">Hi 👋, I'm Safi Ullah Khan</span><br>
+  <span style="font-size: 24px; color: #333;">A Passionate and Enthusiast Cyber Security Student at UET Peshawar.</span><br><br>
+  <img src="https://komarev.com/ghpvc/?username=safiullahgithub&label=Profile%20views&color=0e75b6&style=flat" alt="safiullahgithub" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=safiullahgithub&label=Profile%20views&color=0e75b6&style=flat" alt="safiullahgithub" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safiullahgithub" alt="safiullahgithub" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safiullahgithub" alt="safiullahgithub" /></a>
+</p>
 
 - 🔭 I’m currently working on **NCCS-UET Peshawar**
-
-- 🌱 I’m currently Starting my Research On Data Breaches **Why a Web Applications is Vulnerable to Attack**
-
+- 🌱 I’m currently starting my research on Data Breaches: **Why Web Applications are Vulnerable to Attacks**
 - 👯 I’m looking to collaborate on **Cyber Security Projects**
+- 💬 Ask me about **Burp suite, Nessus, Owasp Zap, Kali Linux, Cryptography, Ethical Hacking, Python Scripting, Penetration Testing, Red Team**
+- 📫 How to reach me: [safimohmand34@gmail.com](mailto:safimohmand34@gmail.com)
 
-- 💬 Ask me about **Burp suite, Nessus , Owasp Zap , Kali Linux , Cryptography, Ethical Hacking , Python Scripting, Penetration Testing , Red Team**
-
-- 📫 How to reach me **safimohmand34@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
