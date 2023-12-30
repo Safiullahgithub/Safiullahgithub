@@ -17,7 +17,6 @@
 </body>
 </html>
 
-  <img src="https://komarev.com/ghpvc/?username=safiullahgithub&label=Profile%20views&color=0e75b6&style=flat" alt="safiullahgithub" />
 </p>
 
 <p align="center">
