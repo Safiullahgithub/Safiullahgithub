@@ -23,13 +23,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safiullahgithub" alt="safiullahgithub" /></a>
 </p>
 
-<ul style="list-style-type: none; padding: 0; text-align: center;">
-  <li style="font-size: 18px; color: #007bff;">🔭 I’m currently working on <strong>NCCS-UET Peshawar</strong></li>
-  <li style="font-size: 18px; color: #007bff;">🌱 I’m currently starting my research on Data Breaches: <strong>Why Web Applications are Vulnerable to Attacks</strong></li>
-  <li style="font-size: 18px; color: #007bff;">👯 I’m looking to collaborate on <strong>Cyber Security Projects</strong></li>
-  <li style="font-size: 18px; color: #007bff;">💬 Ask me about <strong>Burp suite, Nessus, Owasp Zap, Kali Linux, Cryptography, Ethical Hacking, Python Scripting, Penetration Testing, Red Team</strong></li>
-  <li style="font-size: 18px; color: #007bff;">📫 How to reach me: <a href="mailto:safimohmand34@gmail.com" style="color: #007bff; text-decoration: none;"><strong>safimohmand34@gmail.com</strong></a></li>
-</ul>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
