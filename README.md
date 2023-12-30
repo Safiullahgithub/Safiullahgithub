@@ -1,28 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Safi Ullah Khan - GitHub Profile</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f4;
-      color: #333;
-      text-align: center;
-      animation: colorChange 5s infinite;
-    }
 
-    @keyframes colorChange {
-      0% { color: #007bff; }
-      25% { color: #00cc00; }
-      50% { color: #cc00cc; }
-      75% { color: #cc0000; }
-      100% { color: #007bff; }
-    }
-  </style>
-</head>
-<body>
   <h1 style="font-size: 36px;">Hi 👋, I'm Safi Ullah Khan</h1>
   <h3 style="font-size: 24px;">A Passionate and Enthusiast Cyber Security Student at UET Peshawar.</h3>
   <br>
