@@ -1,6 +1,7 @@
 
   <h1 style="font-size: 36px;">Hi 👋, I'm Safi Ullah Khan</h1>
-  <h3 style="font-size: 24px;">A Passionate and Enthusiast Cyber Security Student at UET Peshawar.</h3>
+  <h3 style="font-size: 24px;">A Passionate and Enthusiast Cyber Security Student at UET Peshawar. Experienced in Web Security Analysis, Penetration Testing, Ethical Hacking, and Security Engineering. Proficient in Linux and Python Scripting.</h3>
+
   <h4>I have joined **CodeAlpha** as a **Cyber Security Intern** from **January 5th, 2024** to **April 5th, 2024**.
   </h4>
     <ul style="list-style-type: none; padding: 0;">
