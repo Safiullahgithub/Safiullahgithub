@@ -2,7 +2,6 @@
 <h1 style="font-size: 36px; color: goldenrod;">Hi 👋, I'm Safi Ullah Khan</h1>
 <h3 style="font-size: 24px;"><i>A Passionate and Enthusiast Cyber Security Student at UET Peshawar. Experienced in Web Security Analysis, Penetration Testing, Ethical Hacking, and Security Engineering. Proficient in Linux and<br> Python Scripting.</i></h3>
 
-  <h4>I have joined **CodeAlpha** as a **Cyber Security Intern** from **January 5th, 2024** to **April 5th, 2024**.
   </h4>
     <ul style="list-style-type: none; padding: 0;">
     <li>🔭 I’m currently working on <strong>NCCS-UET Peshawar</strong></li>
@@ -12,6 +11,7 @@
     <li>📫 How to reach me: <a href="mailto:safimohmand34@gmail.com" style="color: #007bff; text-decoration: none;"><strong>safimohmand34@gmail.com</strong></a></li>
   </ul>
   <br>
+  
   <img src="https://komarev.com/ghpvc/?username=safiullahgithub&label=Profile%20views&color=0e75b6&style=flat" alt="safiullahgithub">
   <br><br>
 <p align="center">
