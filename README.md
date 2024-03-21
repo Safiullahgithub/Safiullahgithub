@@ -1,5 +1,5 @@
+<h1 style="font-size: 36px; color: goldenrod; text-align: center; animation: moveLeftToRight 5s linear infinite;">Hi 👋, I'm Safi Ullah Khan</h1>
 
-<h1 style="font-size: 36px; color: goldenrod;">Hi 👋, I'm Safi Ullah Khan</h1>
 <h3 style="font-size: 24px;"><i>A Passionate and Enthusiast Cyber Security Student at UET Peshawar. Experienced in Web Security Analysis, Penetration Testing, Ethical Hacking, and Security Engineering. Proficient in Linux and<br> Python Scripting.</i></h3>
 <a href="https://safiullahuet.netlify.app/">Visit my portfolio here!</a>
   </h4>
