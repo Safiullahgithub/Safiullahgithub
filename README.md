@@ -1,4 +1,4 @@
-<h1 style="font-size: 36px; color: goldenrod;">Safi Ullah Khan<br>Cybersecurity Engineer</h1>
+<h1 style="font-size: 36px; color: goldenrod;">Safi Ullah Khan<br>Cybersecurity Engineer & Java Parogrammer</h1>
 
 <h3 style="font-size: 24px;"><i></i></h3>
 <a href="https://safiullahuet.netlify.app/">Visit my portfolio here!</a>
