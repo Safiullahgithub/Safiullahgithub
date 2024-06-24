@@ -5,7 +5,7 @@
   </h4>
     <ul style="list-style-type: none; padding: 0;">
     <li>🔭 I’m currently working on <strong>NCCS-UET Peshawar</strong></li>
-    <li>🌱 I’m currently starting my research on Data Breaches: <strong>Why Web Applications are Vulnerable to Attacks</strong></li>
+    <li>🌱 I’m  researching on Data Breaches: <strong>Why Web Applications are Vulnerable to Attacks</strong></li>
     <li>👯 I’m looking to collaborate on <strong>Cyber Security Projects</strong></li>
     <li>💬 Ask me about <strong>Burp suite, Nessus, Owasp Zap, Kali Linux, Cryptography, Ethical Hacking, Python Scripting, Penetration Testing, Red Team Engineer</strong></li>
     <li>📫 How to reach me: <a href="mailto:safimohmand34@gmail.com" style="color: #007bff; text-decoration: none;"><strong>safimohmand34@gmail.com</strong></a></li>
