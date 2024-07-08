@@ -28,7 +28,7 @@
 <a href = "mailto:s.khan.cybersec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/saqlainmuhammadd" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="saqlainmuhammadd" height="30" width="40" /></a><a href="https://fb.com/saqlainmuhammadd" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="saqlainmuhammadd" height="30" width="40" /></a><a href="https://www.youtube.com/c/saqlainmuhammadd" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="saqlainmuhammadd" height="30" width="40" /></a><a href="https://www.leetcode.com/saqlainmuhammadd" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="saqlainmuhammadd" height="30" width="40" /></a><a href="https://stackoverflow.com/users/saqlainmuhammadd" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="saqlainmuhammadd" height="30" width="40" /></a><a href="https://instagram.com/saqlainmuhammadd" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="saqlainmuhammadd" height="30" width="40" /></a><a href="https://dev.to/saqlainmuhammadd" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="saqlainmuhammadd" height="30" width="40" /></a></p>
+<a href="https://www.youtube.com/c/saqlainmuhammadd" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="" height="30" width="40" />></a></a><a href="https://dev.to/saqlainmuhammadd" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="saqlainmuhammadd" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -53,18 +53,18 @@
 
 <h3 align="left">Stars</h3>
 
-<p><img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=saqlainmuhammadd&show_icons=true&locale=en&theme=dark" alt="" /> <img align="center" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=saqlainmuhammadd&theme=dark" alt="" /></p>
+<p><img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=Safiullahgithub&show_icons=true&locale=en&theme=dark" alt="" /> <img align="center" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Safiullahgithub&theme=dark" alt="" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/saqlainmuhammadd">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saqlainmuhammadd&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saqlainmuhammadd&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saqlainmuhammadd&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saqlainmuhammadd&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saqlainmuhammadd&theme=2077" height="180em" />
+<a (https://github.com/Safiullahgithub/Safiullahgithub)">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=safiullahkhan&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=safiullahkhan&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=safiullahkhan&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=safiullahkhan&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safiullahkhan&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=saqlainmuhammadd&theme=default"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=safiullahkhan&theme=default"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saqlainmuhammadd&theme=onedark" alt="saqlainmuhammadd" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safiullahkhan&theme=onedark" alt="Safi Ullah Khan" /></a> </p>
