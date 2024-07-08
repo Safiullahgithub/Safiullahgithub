@@ -1,4 +1,4 @@
-![Black](./black.png)
+![Black](./Black .png)
 
 
 <h1 style="font-size: 36px; color: goldenrod;">Safi Ullah Khan<br>Cybersecurity Engineer & Java/kotlin Parogrammer</h1>
