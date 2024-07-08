@@ -1,5 +1,4 @@
-![Black](https://github.com/Safiullahgithub/Safiullahgithub/blob/main/black.png)
-
+![Black](./black.png)
 
 
 <h1 style="font-size: 36px; color: goldenrod;">Safi Ullah Khan<br>Cybersecurity Engineer & Java/kotlin Parogrammer</h1>
