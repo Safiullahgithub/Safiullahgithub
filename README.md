@@ -4,8 +4,7 @@
 <a href="https://safiullahuet.netlify.app/">Visit my portfolio here!</a>
   </h4>
     <ul style="list-style-type: none; padding: 0;">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=I+am+Safi Ullah Khan!;Cybersecurity Engineer+Proficient in Ethical Hacking;+Python+|+Java+|+SQL+|+Database+|)](https://git.io/typing-svg)
-
+ 
 <div align="center">
     <li>💬 Ask me about <strong>Burp suite, Nessus, Owasp Zap, Kali Linux, Cryptography, Ethical Hacking, Python Scripting, Penetration Testing, Red Team Engineer</strong></li>
     <li>📫 How to reach me: <a href="mailto:safimohmand34@gmail.com" style="color: #007bff; text-decoration: none;"><strong>safimohmand34@gmail.com</strong></a></li>
