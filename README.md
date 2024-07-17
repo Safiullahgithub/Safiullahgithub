@@ -1,10 +1,10 @@
 ![Black](./s.png)
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Safi+Ullah+Khan+%F0%9F%91%8B;Cybersecurity+Engineer&color=FFD700" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Safi+Ullah+Khan+%F0%9F%91%8B;Cybersecurity+Engineer&color=AAAAAA" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=Graduated+from+University+of+Engineering+%26+Technology;Peshawar+%5B2020-2024%5D&color=FFFF00" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=Graduated+from+University+of+Engineering+%26+Technology;Peshawar+%5B2020-2024%5D&color=AAAAAA" />
 </p>
 
 
