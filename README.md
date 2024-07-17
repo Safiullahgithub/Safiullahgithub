@@ -1,7 +1,8 @@
 ![Black](./s.png)
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Safi Ullah Khan+%F0%9F%91%8B;A+Cybersecurity Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Safi+Ullah+Khan+%F0%9F%91%8B;Cybersecurity+Engineer&color=FFFF00&weight=bold" />
 </p>
+
 
 <h3 style="font-size: 24px;"><i></i></h3>
 <a href="https://safiullahuet.netlify.app/">Visit my portfolio here!</a>
