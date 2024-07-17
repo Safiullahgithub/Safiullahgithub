@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Graduated+from+University+of+Engineering+%26+Technology+Peshawar+%5B2020-2024%5D&color=FFFF00" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Graduated+from+University+of+Engineering+%26+Technology+Peshawar+%5B2020-2024%5D&color=FFFF00" />
 </p>
+
 
 
 
