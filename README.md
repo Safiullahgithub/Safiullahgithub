@@ -18,7 +18,7 @@
 
 
 <h3 style="font-size: 24px;"><i></i></h3>
-<a href="https://delightful-valkyrie-ccf476.netlify.app/">Visit my portfolio here!</a>
+
   </h4>
     <ul style="list-style-type: none; padding: 0;">
  
