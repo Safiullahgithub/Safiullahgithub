@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=Graduated+from+University+of+Engineering+%26+Technology;Peshawar+%5B2020-2024%5D&color=#FF0000" />
 </p>
 
-<p>Additional Skill: Fiverr Gigs Ranks Expert</p>
+
 
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
