@@ -44,17 +44,3 @@
 
 
 
-<p><img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=Safiullahgithub&show_icons=true&locale=en&theme=dark" alt="" /> <img align="center" height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Safiullahgithub&theme=dark" alt="" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a (https://github.com/Safiullahgithub/Safiullahgithub)">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Safiullahgithub&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Safiullahgithub&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Safiullahgithub&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Safiullahgithub&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Safiullahgithub&theme=2077" height="180em" />
-</div>
-
- </p>
-
